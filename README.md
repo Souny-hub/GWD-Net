@@ -1,2 +1,0 @@
-# GWD-Net
-GWD-Net
